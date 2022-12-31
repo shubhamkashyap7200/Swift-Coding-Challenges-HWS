@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Strings - Are the letters unique'/>
+        <page name='Strings - Is String a Palindrome'/>
+        <page name='Strings - Do Two Strings contain the same characters'/>
+    </pages>
 </playground>
