@@ -6,5 +6,6 @@
         <page name='Strings - Do Two Strings contain the same characters'/>
         <page name='Strings - Do one string contain another'/>
         <page name='Strings - Count a specific character'/>
+        <page name='Strings - Remove Duplicates letters from a string'/>
     </pages>
 </playground>
