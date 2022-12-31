@@ -41,7 +41,7 @@ func removeDuplicateLettersUsingFilterMethod(_ inputString: String) -> String {
     }
     
     return String(result)
-}
+}St
 
 
 print(removeDuplicateLettersUsingFilterMethod("Sara"))
