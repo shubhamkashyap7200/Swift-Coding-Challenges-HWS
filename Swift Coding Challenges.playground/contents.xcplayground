@@ -5,5 +5,6 @@
         <page name='Strings - Is String a Palindrome'/>
         <page name='Strings - Do Two Strings contain the same characters'/>
         <page name='Strings - Do one string contain another'/>
+        <page name='Strings - Count a specific character'/>
     </pages>
 </playground>
