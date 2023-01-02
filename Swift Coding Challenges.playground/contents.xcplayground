@@ -8,5 +8,6 @@
         <page name='Strings - Count a specific character'/>
         <page name='Strings - Condense Whitespace'/>
         <page name='Strings - Remove Duplicates letters from a string'/>
+        <page name='Practise'/>
     </pages>
 </playground>
